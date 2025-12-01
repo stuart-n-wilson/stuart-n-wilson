@@ -28,8 +28,14 @@ Here are a few projects I’m proud of. Check them out:
 
 ## 📈 GitHub Stats
 
-![Stuart's GitHub Stats](https://github-readme-stats.vercel.app/api?username=stuart-n-wilson&show_icons=true&theme=radical)  
+<!-- Total stats -->
+![Stuart's GitHub Stats](https://github-readme-stats.vercel.app/api?username=stuart-n-wilson&show_icons=true&count_private=true&theme=radical)
+
+<!-- Top languages -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stuart-n-wilson&layout=compact&theme=radical)
+
+<!-- GitHub Streak -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=stuart-n-wilson&theme=radical)
 
 ---
 
