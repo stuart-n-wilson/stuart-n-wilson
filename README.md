@@ -9,11 +9,8 @@
 
 Here are a few projects I’m proud of. Check them out:
 
-- [**Song feature clustering**]([https://github.com/YOUR_USERNAME/REPO1](https://github.com/stuart-n-wilson/Song-feature-clustering)) – Clustering Billboard Top 100 songs by their musical features, and using text mining techniques to analyse lyrics.
-- [**Project Name 2**](https://github.com/YOUR_USERNAME/REPO2) – Short description of what it does  
-- [**Project Name 3**](https://github.com/YOUR_USERNAME/REPO3) – Short description of what it does  
-
-*(Replace the links and descriptions with your actual projects.)*
+- [**Song feature clustering**](https://github.com/stuart-n-wilson/Song-feature-clustering) – Clustering Billboard Top 100 songs by their musical features, and using text mining techniques to analyse lyrics.
+- [**Linear regression model comparison**](https://github.com/stuart-n-wilson/mtcars_regression) – An in depth comparison of linear regression models in predict mpg.
 
 ---
 
