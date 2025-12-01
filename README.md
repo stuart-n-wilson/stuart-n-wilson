@@ -9,7 +9,7 @@
 
 Here are a few projects I’m proud of. Check them out:
 
-- [**Project Name 1**](https://github.com/YOUR_USERNAME/REPO1) – Short description of what it does  
+- [**Song feature clustering**]([https://github.com/YOUR_USERNAME/REPO1](https://github.com/stuart-n-wilson/Song-feature-clustering)) – Clustering Billboard Top 100 songs by their musical features, and using text mining techniques to analyse lyrics.
 - [**Project Name 2**](https://github.com/YOUR_USERNAME/REPO2) – Short description of what it does  
 - [**Project Name 3**](https://github.com/YOUR_USERNAME/REPO3) – Short description of what it does  
 
