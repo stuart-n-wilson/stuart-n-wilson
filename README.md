@@ -2,8 +2,7 @@
 
 My name is Stuart and I am a Data Science Masters student from Sheffield.
 
-I'm currently developing my knowledge in Python, R and SQL.
-
+I'm developing my knowledge of statistics, machine learning and data visualisation using R and Python.
 
 <!--
 **stuart-n-wilson/stuart-n-wilson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
