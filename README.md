@@ -9,13 +9,14 @@
 
 Here are a few projects I’m proud of. Check them out:
 
-- [**Song feature clustering**](https://github.com/stuart-n-wilson/Song-feature-clustering) – Clustering Billboard Top 100 songs by their musical features, and using text mining techniques to analyse lyrics.
-- [**Linear regression model comparison**](https://github.com/stuart-n-wilson/mtcars_regression) – An in depth comparison of linear regression models in predict mpg.
+- 🎵[**Song feature clustering**](https://github.com/stuart-n-wilson/Song-feature-clustering) – Clustering Billboard Top 100 songs by their musical features, and using text mining techniques to analyse lyrics.
+- 🚗[**Linear regression model comparison**](https://github.com/stuart-n-wilson/mtcars_regression) – An in depth comparison of linear regression models used to predict mpg.
 
 ---
 
+
 ## 🎓 About Me
-- 📘 Pursuing a **Master’s in Data Science**  
+- 📘 **Data Science MSc** student  
 - ♾️ **First Class BSc in Mathematics**  
 - 🔎 Passionate about **machine learning**, **data analytics**, and **statistical modeling**  
 - 📊 Love solving problems using data  
