@@ -26,12 +26,6 @@ Here are a few projects I’m proud of. Check them out:
 
 ---
 
-## 📊 My GitHub Contributions
-
-![GitHub Contributions](https://ghchart.rshah.org/stuart-n-wilson?bg=000000&color=FFFFFF&line=FF0000)
-
----
-
 ## 📫 Connect with Me
 <a href="https://www.linkedin.com/in/stuart-n-wilson/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn"/>
