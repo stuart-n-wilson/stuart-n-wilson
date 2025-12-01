@@ -27,7 +27,8 @@ Here are a few projects I’m proud of. Check them out:
 ---
 
 ## 📊 My GitHub Contributions
-![GitHub Contributions](https://ghchart.rshah.org/stuart-n-wilson)
+
+![GitHub Contributions](https://ghchart.rshah.org/stuart-n-wilson?bg=000000&color=FFFFFF&line=FF0000)
 
 ---
 
