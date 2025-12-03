@@ -11,6 +11,8 @@ Here are a few projects I’m proud of. Check them out:
 
 - 🎵[**Song feature clustering**](https://github.com/stuart-n-wilson/Song-feature-clustering) – Clustering Billboard Top 100 songs by their musical features, and using text mining techniques to analyse lyrics.
 - 🚗[**Linear regression model comparison**](https://github.com/stuart-n-wilson/mtcars_regression) – An in depth comparison of linear regression models used to predict mpg.
+- 🏔️[**Expedition dataset analysis**](https://github.com/stuart-n-wilson/expedition-analysis-project) - Asking and answering questions about Himalayan mountaineering expeditions and visualising the findings.
+
 
 ---
 
