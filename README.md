@@ -1,10 +1,10 @@
 # Hi there 👋 I'm **Stuart**
 
-📍 Seeking entry level Data Science roles
+📍 Seeking entry-level Data Science roles
 
 🎓 MSc Data Science | 📊 First Class BSc Mathematics
 
-💡 Solving real problems through data
+💡 Using Data Science and Machine Learning techniques to find genuine insight through data
 
 ---
 
@@ -44,7 +44,7 @@
 [View Project](https://github.com/stuart-n-wilson/Song-feature-clustering)
 
 * Applied clustering (k-means) with PCA to 50+ years of Billboard song data
-* Identied two clear musical groups through song feature analysis
+* Identified two clear musical groups through song feature analysis
 * Used NLP techniques (lemmatisation, stop word removal) on lyric data to discover lyrical trends
 
 ---
