@@ -11,6 +11,7 @@ Here are a couple of projects I’m proud of. Check them out:
 
 - 🎵[**Song feature clustering**](https://github.com/stuart-n-wilson/Song-feature-clustering) – Clustering Billboard Top 100 songs by their musical features, and using text mining techniques to analyse lyrics.
 - 🏠[**House price prediction**](https://github.com/stuart-n-wilson/House-price-prediction) - Full end-to-end ML pipeline for predicting house prices in Kaggle competition.
+- ✈️[**Airline passenger satisfaction**](https://github.com/stuart-n-wilson/Airline-passenger-satisfaction) - Analysying and predicting airline passenger satisfaction with full ML pipeline.
 
 
 ---
