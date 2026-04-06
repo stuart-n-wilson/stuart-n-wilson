@@ -19,6 +19,17 @@
 
 ## 🚀 Featured Projects
 
+### 🏎️ F1 Qualifying Simulator Application
+
+[View Project](https://github.com/stuart-n-wilson/F1-Qualifying-Monte-Carlo-Simulator)
+
+[Try it out](https://f1-qualifying-monte-carlo-simulator.streamlit.app/)
+
+* Built application to simulate F1 Qualifying using Monte Carlo simulation, deployed with Streamlit
+* Generates probability dsitributions for every driver and grid position, automatically generating accompanying visualisations
+
+---
+
 ### ✈️ Airline Passenger Satisfaction
 
 [View Project](https://github.com/stuart-n-wilson/Airline-passenger-satisfaction)
