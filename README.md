@@ -21,9 +21,9 @@
 
 ### 🏎️ F1 Qualifying Simulator Application
 
-[View Project](https://github.com/stuart-n-wilson/F1-Qualifying-Monte-Carlo-Simulator) - currently taken down for major update.
+[View Project](https://github.com/stuart-n-wilson/F1-Qualifying-Monte-Carlo-Simulator) 
 
-[Try it out](https://f1-qualifying-monte-carlo-simulator.streamlit.app/)
+[Try it out](https://f1-qualifying-monte-carlo-simulator.streamlit.app/) - currently taken down for major update.
 
 * Built application to simulate F1 Qualifying using Monte Carlo simulation, deployed with Streamlit
 * Generates probability dsitributions for every driver and grid position, automatically generating accompanying visualisations
