@@ -21,7 +21,7 @@
 
 ### 🏎️ F1 Qualifying Simulator Application
 
-[View Project](https://github.com/stuart-n-wilson/F1-Qualifying-Monte-Carlo-Simulator)
+[View Project](https://github.com/stuart-n-wilson/F1-Qualifying-Monte-Carlo-Simulator) - currently taken down for major update.
 
 [Try it out](https://f1-qualifying-monte-carlo-simulator.streamlit.app/)
 
