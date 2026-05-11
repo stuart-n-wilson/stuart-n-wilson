@@ -28,6 +28,7 @@
 * Built application to simulate F1 Qualifying using Monte Carlo simulation, deployed with Streamlit
 * Generates probability dsitributions for every driver and grid position
 * Automatically creates a most likely finishing order, and allows for position and driver analysis with visualisations.
+* LLM integration to help interpret results.
 
 ---
 
