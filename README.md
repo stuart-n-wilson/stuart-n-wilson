@@ -1,8 +1,8 @@
 # Hi, I'm Stuart 👋
 
-MSc Data Science (exp. Distinction) · First-Class BSc Mathematics · Sheffield, UK
+MSc Data Science student · PGCE · First-Class BSc Mathematics · Sheffield, UK
 
-I build end-to-end machine learning pipelines and deploy things that work.
+I build interesting things using maths, statistics and machine learning (at least I think so.
 
 ---
 
