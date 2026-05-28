@@ -11,7 +11,6 @@ I build interesting things using maths, statistics and machine learning (at leas
 
 ---
 
-### 🛠️ Tech
 ![Python](https://img.shields.io/badge/Python-0f172a?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-0f172a?style=flat-square&logo=mysql&logoColor=white)
 ![R](https://img.shields.io/badge/R-0f172a?style=flat-square&logo=r&logoColor=white)
