@@ -2,7 +2,7 @@
 
 MSc Data Science student · PGCE · First-Class BSc Mathematics · Sheffield, UK
 
-I build interesting things using maths, statistics and machine learning (at least I think so.
+I build interesting things using maths, statistics and machine learning (at least I think so).
 
 ---
 
